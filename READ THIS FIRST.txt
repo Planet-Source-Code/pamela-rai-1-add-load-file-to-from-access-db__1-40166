@@ -1,0 +1,3 @@
+Compile the dll -> StoreCreateFile.vbp
+Register the dll using: regsvr32.exe "Path to dll"
+Compile the exe -> StoreCreateFileDemo.vbp
