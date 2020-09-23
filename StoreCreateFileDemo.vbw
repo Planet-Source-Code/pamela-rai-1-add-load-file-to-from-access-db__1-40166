@@ -1,0 +1,13 @@
+frmStoreCreateFileDemo = 22, 22, 618, 394, , 66, 66, 496, 438, C
+modStatus = 66, 66, 496, 438, C
+modRegistry = 44, 44, 474, 416, C
+modLocationLocationLocation = 132, 132, 562, 504, C
+modMouseSet = 154, 154, 584, 526, C
+modNotTooSmallBig = 0, 0, 430, 372, C
+modConnectToWebSite = 88, 88, 518, 460, 
+modAddBackSlash = 44, 44, 474, 416, C
+modTempName = 88, 88, 518, 460, C
+modCommonDialogConstants = 66, 66, 496, 438, C
+modPath = 22, 22, 452, 394, C
+CDialog = 110, 110, 540, 482, C
+clsShellEX = 132, 132, 562, 504, C
